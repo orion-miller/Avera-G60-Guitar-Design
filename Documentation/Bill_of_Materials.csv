@@ -1,5 +1,6 @@
-Part,Part #,Price,Link
-Bridge,1,100,x
-Tuners,1,100,x
-Pickups,1,220,x
-Nut,1,1,15.02
+Part,Price,Part #,Notes,Link
+Nut - GraphTech Tusq,15.02,PQ-5042-00,42 mm length. Remember to check radius,https://graphtech.com/collections/tusq-nuts-guitar/products/tusq-nut-42mm-flat-bottom-strat-nut
+Bridge - Gotoh,125,EV510T-FE,Decide between T or TS model,https://g-gotoh.com/product/ev510t-fe/?lang=en
+Tuners - Gotoh,132,SGS510Z-MGT-S5-C-L6,Want the model that locks,https://g-gotoh.com/product/sgs510z/?lang=en
+Pickups - Lace Alumitone,236,NA,2x at $118 per,https://lacemusic.com/collections/7/products/alumitone-single-coil-in-chrome-or-gold
+,,,,
